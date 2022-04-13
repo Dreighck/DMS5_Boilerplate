@@ -6,6 +6,7 @@ import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.assertNotNull;
 
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -62,7 +63,7 @@ public class DataMungerTest {
 		queryParameter = queryParser.parseQuery(queryString);
 		assertEquals(
 				"testGetFileName(): File name extraction failed. Check getFile() method. File name can be found after a space after from clause. Note: CSV file can contain a field that contains from as a part of the column name. For eg: from_date,from_hrs etc",
-				"data/ipl.csv", queryParameter.getFileName());
+				"data/ipl.csv", queryParameter.getFileName(queryParameter));
 		display(queryString, queryParameter);
 	}
 
@@ -72,7 +73,7 @@ public class DataMungerTest {
 		queryParameter = queryParser.parseQuery(queryString);
 		assertNotEquals(
 				"testgetFileNameNameFailure(): File name extraction failed. Check getFileName() method. File name can be found after a space after from clause. Note: CSV file can contain a field that contains from as a part of the column name. For eg: from_date,from_hrs etc",
-				"data/ipl.csv", queryParameter.getFileName());
+				"data/ipl.csv", queryParameter.getFileName(queryParameter));
 		display(queryString, queryParameter);
 	}
 
@@ -120,7 +121,7 @@ public class DataMungerTest {
 
 		assertEquals(
 				"testGetFieldsAndRestrictions() : File name extraction failed. Check getFileName() method. File name can be found after a space after from clause. Note: CSV file can contain a field that contains from as a part of the column name. For eg: from_date,from_hrs etc",
-				"data/ipl.csv", queryParameter.getFileName());
+				"data/ipl.csv", queryParameter.getFileName(queryParameter));
 		assertEquals(
 				"testGetFieldsAndRestrictions() : Select fields extractions failed. The query string can have multiple fields separated by comma after the 'select' keyword. The extracted fields is supposed to be stored in a String array which is to be returned by the method getFields(). Check getFields() method",
 				fields, queryParameter.getFields());
@@ -198,7 +199,7 @@ public class DataMungerTest {
 
 		assertEquals(
 				"testGetRestrictionsAndAggregateFunctions() : File name extraction failed. Check getFileName() method. File name can be found after a space after from clause. Note: CSV file can contain a field that contains from as a part of the column name. For eg: from_date,from_hrs etc",
-				"data/ipl.csv", queryParameter.getFileName());
+				"data/ipl.csv", queryParameter.getFileName(queryParameter));
 		assertEquals(
 				"testGetRestrictionsAndAggregateFunctions() : Select fields extractions failed. The query string can have multiple fields separated by comma after the 'select' keyword. The extracted fields is supposed to be stored in a String array which is to be returned by the method getFields(). Check getFields() method",
 				fields, queryParameter.getFields());
@@ -257,7 +258,7 @@ public class DataMungerTest {
 
 		assertEquals(
 				"testGetGroupByOrderByClause() : File name extraction failed. Check getFileName() method. File name can be found after a space after from clause. Note: CSV file can contain a field that contains from as a part of the column name. For eg: from_date,from_hrs etc",
-				"data/ipl.csv", queryParameter.getFileName());
+				"data/ipl.csv", queryParameter.getFileName(queryParameter));
 		assertEquals(
 				"testGetGroupByOrderByClause() : Select fields extractions failed. The query string can have multiple fields separated by comma after the 'select' keyword. The extracted fields is supposed to be stored in a String array which is to be returned by the method getFields(). Check getFields() method",
 				fields, queryParameter.getFields());
@@ -371,7 +372,7 @@ public class DataMungerTest {
 
 		assertEquals(
 				"testGetOrderByAndWhereConditionClause() : File name extraction failed. Check getFileName() method. File name can be found after a space after from clause. Note: CSV file can contain a field that contains from as a part of the column name. For eg: from_date,from_hrs etc",
-				"data/ipl.csv", queryParameter.getFileName());
+				"data/ipl.csv", queryParameter.getFileName(queryParameter));
 		assertEquals(
 				"testGetOrderByAndWhereConditionClause() : Select fields extractions failed. The query string can have multiple fields separated by comma after the 'select' keyword. The extracted fields is supposed to be stored in a String array which is to be returned by the method getFields(). Check getFields() method",
 				fields, queryParameter.getFields());
@@ -422,7 +423,7 @@ public class DataMungerTest {
 
 		assertEquals(
 				"testGetOrderByClause() : File name extraction failed. Check getFileName() method. File name can be found after a space after from clause. Note: CSV file can contain a field that contains from as a part of the column name. For eg: from_date,from_hrs etc",
-				"data/ipl.csv", queryParameter.getFileName());
+				"data/ipl.csv", queryParameter.getFileName(queryParameter));
 		assertEquals(
 				"testGetOrderByClause() : Select fields extractions failed. The query string can have multiple fields separated by comma after the 'select' keyword. The extracted fields is supposed to be stored in a String array which is to be returned by the method getFields(). Check getFields() method",
 				fields, queryParameter.getFields());
@@ -447,7 +448,7 @@ public class DataMungerTest {
 
 		assertEquals(
 				"testGetOrderByClause() : File name extraction failed. Check getFileName() method. File name can be found after a space after from clause. Note: CSV file can contain a field that contains from as a part of the column name. For eg: from_date,from_hrs etc",
-				"data/ipl.csv", queryParameter.getFileName());
+				"data/ipl.csv", queryParameter.getFileName(queryParameter));
 		assertEquals(
 				"testGetOrderByClause() : Select fields extractions failed. The query string can have multiple fields separated by comma after the 'select' keyword. The extracted fields is supposed to be stored in a String array which is to be returned by the method getFields(). Check getFields() method",
 				fields, queryParameter.getFields());
@@ -463,7 +464,7 @@ public class DataMungerTest {
 		System.out.println("\nQuery : " + queryString);
 		System.out.println("--------------------------------------------------");
 		System.out.println("Base Query:" + queryParameter.getBaseQuery());
-		System.out.println("File:" + queryParameter.getFileName());
+		System.out.println("File:" + queryParameter.getFileName(queryParameter));
 		System.out.println("Query Type:" + queryParameter.getQUERY_TYPE());
 		List<String> fields = queryParameter.getFields();
 		System.out.println("Selected field(s):");
@@ -530,7 +531,7 @@ public class DataMungerTest {
 	 */
 
 	@Test
-	public void testSelectAllWithoutWhereClause() throws FileNotFoundException {
+	public void testSelectAllWithoutWhereClause() throws IOException {
 		int totalrecordsexpected = 577;
 		int recordscounter = 1;
 		boolean dataexpectedstatus = false;
@@ -580,7 +581,7 @@ public class DataMungerTest {
 	}
 
 	@Test
-	public void testSelectColumnsWithoutWhereClause() throws FileNotFoundException {
+	public void testSelectColumnsWithoutWhereClause() throws FileNotFoundException,IOException {
 		int totalrecordsexpected = 577;
 		int recordscounter = 1;
 		boolean dataexpectedstatus = false;
@@ -628,7 +629,7 @@ public class DataMungerTest {
 	}
 
 	@Test
-	public void testWithWhereGreaterThanClause() throws FileNotFoundException {
+	public void testWithWhereGreaterThanClause() throws FileNotFoundException, IOException {
 		int totalrecordsexpected = 60;
 		int recordscounter = 1;
 		boolean dataexpectedstatus = false;
@@ -679,7 +680,7 @@ public class DataMungerTest {
 	}
 
 	@Test
-	public void testWithWhereLessThanClause() throws FileNotFoundException {
+	public void testWithWhereLessThanClause() throws FileNotFoundException,IOException {
 		int totalrecordsexpected = 458;
 		int recordscounter = 1;
 		boolean dataexpectedstatus = false;
@@ -729,7 +730,7 @@ public class DataMungerTest {
 	}
 
 	@Test
-	public void testWithWhereLessThanOrEqualToClause() throws FileNotFoundException {
+	public void testWithWhereLessThanOrEqualToClause() throws FileNotFoundException,IOException {
 		int totalrecordsexpected = 517;
 		int recordscounter = 1;
 		boolean dataexpectedstatus = false;
@@ -779,7 +780,7 @@ public class DataMungerTest {
 	}
 
 	@Test
-	public void testWithWhereGreaterThanOrEqualToClause() throws FileNotFoundException {
+	public void testWithWhereGreaterThanOrEqualToClause() throws FileNotFoundException,IOException {
 		int totalrecordsexpected = 119;
 		int recordscounter = 1;
 		boolean dataexpectedstatus = false;
@@ -829,7 +830,7 @@ public class DataMungerTest {
 	}
 
 	@Test
-	public void testWithWhereNotEqualToClause() throws FileNotFoundException {
+	public void testWithWhereNotEqualToClause() throws FileNotFoundException,IOException {
 
 		int totalrecordsexpected = 315;
 		int recordscounter = 1;
@@ -881,7 +882,7 @@ public class DataMungerTest {
 	}
 
 	@Test
-	public void testWithWhereEqualAndNotEqualClause() throws FileNotFoundException {
+	public void testWithWhereEqualAndNotEqualClause() throws FileNotFoundException,IOException {
 		int totalrecordsexpected = 195;
 		int recordscounter = 1;
 		boolean dataexpectedstatus = false;
@@ -931,7 +932,7 @@ public class DataMungerTest {
 	}
 
 	@Test
-	public void testWithWhereTwoConditionsEqualOrNotEqualClause() throws FileNotFoundException {
+	public void testWithWhereTwoConditionsEqualOrNotEqualClause() throws FileNotFoundException,IOException {
 		int totalrecordsexpected = 155;
 		int recordscounter = 1;
 		boolean dataexpectedstatus = false;
@@ -982,7 +983,7 @@ public class DataMungerTest {
 	}
 
 	@Test
-	public void testWithWhereThreeConditionsEqualOrNotEqualClause() throws FileNotFoundException {
+	public void testWithWhereThreeConditionsEqualOrNotEqualClause() throws FileNotFoundException,IOException {
 		int totalrecordsexpected = 577;
 		int recordscounter = 1;
 		boolean dataexpectedstatus = false;

@@ -13,11 +13,6 @@ public class Filter {
 	 * 
 	 */
 	
-	
-	
-	
-	
-	
 	//Method containing implementation of equalTo operator
 	
 	

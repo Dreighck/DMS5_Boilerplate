@@ -8,9 +8,10 @@ public class DataMunger {
 		// Read the query from the user
 
 		/*
-		 * Instantiate Query class. This class is responsible for: 1. Parsing the query
-		 * 2. Select the appropriate type of query processor 3. Get the resultSet which
-		 * is populated by the Query Processor
+		 * Instantiate Query class. This class is responsible for:
+		 * 1. Parsing the query
+		 * 2. Select the appropriate type of query processor
+		 * 3. Get the resultSet which is populated by the Query Processor
 		 */
 		
 
