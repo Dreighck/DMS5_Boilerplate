@@ -49,10 +49,10 @@ public class DataTypeDefinitions {
 		else if(piece.matches("[0-9]{2}-[a-z]{3}-[0-9]{4}"))
 			return true;
 			// checking for date format dd-month-yy
-		else if(piece.matches("[0-9]{2}/[a-z]{3,9}/[0-9]{2}"))
+		else if(piece.matches("[0-9]{2}/[a-z]*/[0-9]{2}"))
 			return true;
 			// checking for date format dd-month-yyyy
-		else if(piece.matches("[0-9]{2}-[a-z]{3,9}-[0-9]{4}"))
+		else if(piece.matches("[0-9]{2}-[a-z]*-[0-9]{4}"))
 			return true;
 			// checking for date format yyyy-mm-dd
 		else return piece.matches("[0-9]{4}-[0-9]{2}-[0-9]{2}");

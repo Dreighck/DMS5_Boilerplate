@@ -5,9 +5,9 @@ package com.stackroute.datamunger.query.parser;
  * each conditions
  * */
 public class Restriction {
-	private String propertyName;
-	private String propertyValue;
-	private String condition;
+	private final String propertyName;
+	private final String propertyValue;
+	private final String condition;
 	// Write logic for constructor
 
 	public Restriction(String propertyName, String propertyValue, String condition) {

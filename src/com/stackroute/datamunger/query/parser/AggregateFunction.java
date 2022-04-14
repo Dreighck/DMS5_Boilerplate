@@ -2,8 +2,8 @@ package com.stackroute.datamunger.query.parser;
 
 
 public class AggregateFunction {
-	private String field;
-	private String function;
+	private final String field;
+	private final String function;
 
 	public AggregateFunction(String field, String function) {
 		this.field=field;
@@ -19,16 +19,8 @@ public class AggregateFunction {
 	public String getField() {
 		return field;
 	}
-
-	public void setField(String field) {
-		this.field = field;
-	}
-
 	public String getFunction() {
 		return function;
 	}
 
-	public void setFunction(String function) {
-		this.function = function;
-	}
 }

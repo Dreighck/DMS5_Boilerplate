@@ -4,6 +4,6 @@ import java.io.Serializable;
 import java.util.HashMap;
 
 //Contains the row object as ColumnName/Value. Hence, HashMap is being used
-public class Row extends HashMap<String, String> implements Serializable {
+public class Row extends HashMap<String, String> {
 	private static final long serialVersionUID = 1L;
 }

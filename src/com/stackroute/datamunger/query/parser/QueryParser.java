@@ -7,7 +7,7 @@ import java.util.List;
 
 public class QueryParser {
 
-    private QueryParameter queryParameter = new QueryParameter();
+    private final QueryParameter queryParameter = new QueryParameter();
 
     public QueryParameter parseQuery(String queryString) {
         queryParameter.setFileName(getFileName(queryString));
@@ -74,7 +74,7 @@ public class QueryParser {
             return null;
         String[] tokens=queryString.trim().split("where");
         String[] conditions=tokens[1].trim().split(" order by | group by ")[0].trim().split(" and | or ");
-        List<Restriction>restrictionList=new LinkedList<Restriction>();
+        List<Restriction>restrictionList=new LinkedList<>();
         for (String s : conditions) {
             String condition;
             if(s.contains(">=")) {
@@ -101,7 +101,6 @@ public class QueryParser {
     public static String capitalize(String str) {
         if (str == null || str.length() == 0) return str;
         return str.substring(0, 1).toUpperCase() + str.substring(1);
-
     }
 
 
@@ -123,16 +122,16 @@ public class QueryParser {
     }
 
     public List<AggregateFunction> getAggregateFunctions(String queryString) {
-        String[] Aggs = {"min(", "max(", "sum(", "count(", "avg("};
+        String[] aggregateFunctions = {"min(", "max(", "sum(", "count(", "avg("};
         List<AggregateFunction> type = new ArrayList<>();
         String[] query = queryString.split("select ")[1].split(" from ")[0].split(",");
         for(String functions : query) {
-            for(String s : Aggs) {
+            for(String s : aggregateFunctions) {
                 if (functions.contains(s)) {
                     String function = s.substring(0, s.length() - 1);
                     String field = functions.replace(s, "").replace(")", "").trim();
-                    AggregateFunction a = new AggregateFunction(field,function);
-                    type.add(a);
+                    AggregateFunction aggie = new AggregateFunction(field,function);
+                    type.add(aggie);
                 }
             }
         }

@@ -9,9 +9,10 @@ public class QueryParameter {
 	private List<String> fields;
 	private List<Restriction> restrictions;
 	private String baseQuery;
+	@SuppressWarnings("FieldCanBeLocal")
+	private String QUERY_TYPE;
 	private List<AggregateFunction> aggregateFunctions;
 	private List<String> logicalOperators;
-	private String QUERY_TYPE;
 	private List<String> groupByFields;
 	private List<String> orderByFields;
 
@@ -34,9 +35,7 @@ public class QueryParameter {
 	public List<String> getLogicalOperators() {
 		return logicalOperators;
 	}
-	public String getQUERY_TYPE() {
-		return null;
-	}
+	public String getQUERY_TYPE() {return null;	}
 	public List<String> getGroupByFields() {
 		return groupByFields;
 	}

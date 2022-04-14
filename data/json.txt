@@ -1,0 +1,3464 @@
+{
+  "1": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Bangalore",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "2": {
+    "winner": "Chennai Super Kings",
+    "city": "Chandigarh",
+    "team1": "Chennai Super Kings",
+    "team2": "Kings XI Punjab"
+  },
+  "3": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Rajasthan Royals",
+    "team2": "Delhi Daredevils"
+  },
+  "4": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "5": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Deccan Chargers",
+    "team2": "Kolkata Knight Riders"
+  },
+  "6": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Kings XI Punjab",
+    "team2": "Rajasthan Royals"
+  },
+  "7": {
+    "winner": "Delhi Daredevils",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Delhi Daredevils"
+  },
+  "8": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "9": {
+    "winner": "Rajasthan Royals",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Rajasthan Royals"
+  },
+  "10": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "11": {
+    "winner": "Rajasthan Royals",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rajasthan Royals"
+  },
+  "12": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Chennai Super Kings"
+  },
+  "13": {
+    "winner": "Deccan Chargers",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Deccan Chargers"
+  },
+  "14": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Delhi Daredevils",
+    "team2": "Kings XI Punjab"
+  },
+  "15": {
+    "winner": "Chennai Super Kings",
+    "city": "Bangalore",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "16": {
+    "winner": "Mumbai Indians",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "17": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "18": {
+    "winner": "Kings XI Punjab",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Kings XI Punjab"
+  },
+  "19": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "20": {
+    "winner": "Delhi Daredevils",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "21": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "22": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "23": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "24": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals"
+  },
+  "25": {
+    "winner": "Kings XI Punjab",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "26": {
+    "winner": "Deccan Chargers",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Deccan Chargers"
+  },
+  "27": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Rajasthan Royals",
+    "team2": "Mumbai Indians"
+  },
+  "28": {
+    "winner": "Chennai Super Kings",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Chennai Super Kings"
+  },
+  "29": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "30": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Deccan Chargers",
+    "team2": "Rajasthan Royals"
+  },
+  "31": {
+    "winner": "Mumbai Indians",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Mumbai Indians"
+  },
+  "32": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Kings XI Punjab"
+  },
+  "33": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Hyderabad",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Deccan Chargers"
+  },
+  "34": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Delhi Daredevils",
+    "team2": "Rajasthan Royals"
+  },
+  "35": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "36": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Daredevils"
+  },
+  "37": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "38": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Rajasthan Royals"
+  },
+  "39": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Deccan Chargers"
+  },
+  "40": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "41": {
+    "winner": "Kings XI Punjab",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kings XI Punjab"
+  },
+  "42": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "43": {
+    "winner": "Mumbai Indians",
+    "city": "Hyderabad",
+    "team1": "Mumbai Indians",
+    "team2": "Deccan Chargers"
+  },
+  "44": {
+    "winner": "Chennai Super Kings",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Chennai Super Kings"
+  },
+  "45": {
+    "winner": "Delhi Daredevils",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Delhi Daredevils"
+  },
+  "46": {
+    "winner": "Rajasthan Royals",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Rajasthan Royals"
+  },
+  "47": {
+    "winner": "Kings XI Punjab",
+    "city": "Mumbai",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "48": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Chennai",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Chennai Super Kings"
+  },
+  "49": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Deccan Chargers",
+    "team2": "Kings XI Punjab"
+  },
+  "50": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "51": {
+    "winner": "Rajasthan Royals",
+    "city": "Chennai",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings"
+  },
+  "52": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Deccan Chargers"
+  },
+  "53": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "54": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  "55": {
+    "winner": "Chennai Super Kings",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Chennai Super Kings"
+  },
+  "56": {
+    "winner": "Rajasthan Royals",
+    "city": "Mumbai",
+    "team1": "Rajasthan Royals",
+    "team2": "Delhi Daredevils"
+  },
+  "57": {
+    "winner": "Chennai Super Kings",
+    "city": "Mumbai",
+    "team1": "Kings XI Punjab",
+    "team2": "Chennai Super Kings"
+  },
+  "58": {
+    "winner": "Rajasthan Royals",
+    "city": "Mumbai",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals"
+  },
+  "59": {
+    "winner": "Mumbai Indians",
+    "city": "Cape Town",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "60": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Cape Town",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rajasthan Royals"
+  },
+  "61": {
+    "winner": "Delhi Daredevils",
+    "city": "Cape Town",
+    "team1": "Kings XI Punjab",
+    "team2": "Delhi Daredevils"
+  },
+  "62": {
+    "winner": "Deccan Chargers",
+    "city": "Cape Town",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Deccan Chargers"
+  },
+  "63": {
+    "winner": "Chennai Super Kings",
+    "city": "Port Elizabeth",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "64": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Durban",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "65": {
+    "winner": "Deccan Chargers",
+    "city": "Cape Town",
+    "team1": "Deccan Chargers",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "66": {
+    "winner": "Delhi Daredevils",
+    "city": "Durban",
+    "team1": "Delhi Daredevils",
+    "team2": "Chennai Super Kings"
+  },
+  "67": {
+    "winner": "Rajasthan Royals",
+    "city": "Cape Town",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "68": {
+    "winner": "Kings XI Punjab",
+    "city": "Durban",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "69": {
+    "winner": "Deccan Chargers",
+    "city": "Durban",
+    "team1": "Deccan Chargers",
+    "team2": "Mumbai Indians"
+  },
+  "70": {
+    "winner": "Delhi Daredevils",
+    "city": "Port Elizabeth",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Delhi Daredevils"
+  },
+  "71": {
+    "winner": "Kings XI Punjab",
+    "city": "Cape Town",
+    "team1": "Kings XI Punjab",
+    "team2": "Rajasthan Royals"
+  },
+  "72": {
+    "winner": "Deccan Chargers",
+    "city": "Durban",
+    "team1": "Chennai Super Kings",
+    "team2": "Deccan Chargers"
+  },
+  "73": {
+    "winner": "Mumbai Indians",
+    "city": "Port Elizabeth",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders"
+  },
+  "74": {
+    "winner": "Rajasthan Royals",
+    "city": "Centurion",
+    "team1": "Delhi Daredevils",
+    "team2": "Rajasthan Royals"
+  },
+  "75": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Durban",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "76": {
+    "winner": "Kings XI Punjab",
+    "city": "Durban",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "77": {
+    "winner": "Delhi Daredevils",
+    "city": "Centurion",
+    "team1": "Deccan Chargers",
+    "team2": "Delhi Daredevils"
+  },
+  "78": {
+    "winner": "Chennai Super Kings",
+    "city": "Centurion",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals"
+  },
+  "79": {
+    "winner": "Mumbai Indians",
+    "city": "East London",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders"
+  },
+  "80": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Durban",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "81": {
+    "winner": "Rajasthan Royals",
+    "city": "Port Elizabeth",
+    "team1": "Deccan Chargers",
+    "team2": "Rajasthan Royals"
+  },
+  "82": {
+    "winner": "Chennai Super Kings",
+    "city": "Johannesburg",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "83": {
+    "winner": "Kings XI Punjab",
+    "city": "Port Elizabeth",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Kings XI Punjab"
+  },
+  "84": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Johannesburg",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "85": {
+    "winner": "Chennai Super Kings",
+    "city": "East London",
+    "team1": "Chennai Super Kings",
+    "team2": "Deccan Chargers"
+  },
+  "86": {
+    "winner": "Rajasthan Royals",
+    "city": "Durban",
+    "team1": "Rajasthan Royals",
+    "team2": "Kings XI Punjab"
+  },
+  "87": {
+    "winner": "Delhi Daredevils",
+    "city": "Durban",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Daredevils"
+  },
+  "88": {
+    "winner": "Deccan Chargers",
+    "city": "Centurion",
+    "team1": "Deccan Chargers",
+    "team2": "Mumbai Indians"
+  },
+  "89": {
+    "winner": "Rajasthan Royals",
+    "city": "Centurion",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rajasthan Royals"
+  },
+  "90": {
+    "winner": "Chennai Super Kings",
+    "city": "Centurion",
+    "team1": "Chennai Super Kings",
+    "team2": "Kings XI Punjab"
+  },
+  "91": {
+    "winner": "Delhi Daredevils",
+    "city": "East London",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "92": {
+    "winner": "Kings XI Punjab",
+    "city": "Kimberley",
+    "team1": "Deccan Chargers",
+    "team2": "Kings XI Punjab"
+  },
+  "93": {
+    "winner": "Chennai Super Kings",
+    "city": "Kimberley",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings"
+  },
+  "94": {
+    "winner": "Mumbai Indians",
+    "city": "Port Elizabeth",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "95": {
+    "winner": "Delhi Daredevils",
+    "city": "Johannesburg",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Daredevils"
+  },
+  "96": {
+    "winner": "Deccan Chargers",
+    "city": "Kimberley",
+    "team1": "Deccan Chargers",
+    "team2": "Rajasthan Royals"
+  },
+  "97": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Centurion",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "98": {
+    "winner": "Mumbai Indians",
+    "city": "Centurion",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "99": {
+    "winner": "Delhi Daredevils",
+    "city": "Durban",
+    "team1": "Delhi Daredevils",
+    "team2": "Deccan Chargers"
+  },
+  "100": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Durban",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "101": {
+    "winner": "Rajasthan Royals",
+    "city": "Durban",
+    "team1": "Rajasthan Royals",
+    "team2": "Mumbai Indians"
+  },
+  "102": {
+    "winner": "Kings XI Punjab",
+    "city": "Bloemfontein",
+    "team1": "Delhi Daredevils",
+    "team2": "Kings XI Punjab"
+  },
+  "103": {
+    "winner": "Chennai Super Kings",
+    "city": "Port Elizabeth",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "104": {
+    "winner": "Deccan Chargers",
+    "city": "Johannesburg",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Deccan Chargers"
+  },
+  "105": {
+    "winner": "Kings XI Punjab",
+    "city": "Johannesburg",
+    "team1": "Kings XI Punjab",
+    "team2": "Deccan Chargers"
+  },
+  "106": {
+    "winner": "Delhi Daredevils",
+    "city": "Bloemfontein",
+    "team1": "Delhi Daredevils",
+    "team2": "Rajasthan Royals"
+  },
+  "107": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Centurion",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "108": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Johannesburg",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "109": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Durban",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "110": {
+    "winner": "Chennai Super Kings",
+    "city": "Durban",
+    "team1": "Chennai Super Kings",
+    "team2": "Kings XI Punjab"
+  },
+  "111": {
+    "winner": "Delhi Daredevils",
+    "city": "Centurion",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "112": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Centurion",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Deccan Chargers"
+  },
+  "113": {
+    "winner": "Deccan Chargers",
+    "city": "Centurion",
+    "team1": "Delhi Daredevils",
+    "team2": "Deccan Chargers"
+  },
+  "114": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Johannesburg",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "115": {
+    "winner": "Deccan Chargers",
+    "city": "Johannesburg",
+    "team1": "Deccan Chargers",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "116": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Mumbai",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Deccan Chargers"
+  },
+  "117": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  "118": {
+    "winner": "Delhi Daredevils",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Delhi Daredevils"
+  },
+  "119": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kolkata Knight Riders"
+  },
+  "120": {
+    "winner": "Deccan Chargers",
+    "city": "Chennai",
+    "team1": "Deccan Chargers",
+    "team2": "Chennai Super Kings"
+  },
+  "121": {
+    "winner": "Delhi Daredevils",
+    "city": "Ahmedabad",
+    "team1": "Rajasthan Royals",
+    "team2": "Delhi Daredevils"
+  },
+  "122": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Kings XI Punjab",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "123": {
+    "winner": "Chennai Super Kings",
+    "city": "Kolkata",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "124": {
+    "winner": "Mumbai Indians",
+    "city": "Delhi",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "125": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "126": {
+    "winner": "Chennai Super Kings",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Chennai Super Kings"
+  },
+  "127": {
+    "winner": "Deccan Chargers",
+    "city": "Cuttack",
+    "team1": "Deccan Chargers",
+    "team2": "Kings XI Punjab"
+  },
+  "128": {
+    "winner": "Rajasthan Royals",
+    "city": "Ahmedabad",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "129": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "130": {
+    "winner": "Deccan Chargers",
+    "city": "Cuttack",
+    "team1": "Deccan Chargers",
+    "team2": "Delhi Daredevils"
+  },
+  "131": {
+    "winner": "Kings XI Punjab",
+    "city": "Chennai",
+    "team1": "Kings XI Punjab",
+    "team2": "Chennai Super Kings"
+  },
+  "132": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "133": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Chennai Super Kings"
+  },
+  "134": {
+    "winner": "Rajasthan Royals",
+    "city": "Chandigarh",
+    "team1": "Rajasthan Royals",
+    "team2": "Kings XI Punjab"
+  },
+  "135": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "136": {
+    "winner": "Rajasthan Royals",
+    "city": "Ahmedabad",
+    "team1": "Deccan Chargers",
+    "team2": "Rajasthan Royals"
+  },
+  "137": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Chandigarh",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Kings XI Punjab"
+  },
+  "138": {
+    "winner": "Delhi Daredevils",
+    "city": "Bangalore",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "139": {
+    "winner": "Rajasthan Royals",
+    "city": "Ahmedabad",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings"
+  },
+  "140": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Deccan Chargers"
+  },
+  "141": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kolkata Knight Riders"
+  },
+  "142": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "143": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Chennai Super Kings"
+  },
+  "144": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Rajasthan Royals"
+  },
+  "145": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Deccan Chargers"
+  },
+  "146": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "147": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals"
+  },
+  "148": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Deccan Chargers"
+  },
+  "149": {
+    "winner": "Kings XI Punjab",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Kings XI Punjab"
+  },
+  "150": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "151": {
+    "winner": "Rajasthan Royals",
+    "city": "Nagpur",
+    "team1": "Rajasthan Royals",
+    "team2": "Deccan Chargers"
+  },
+  "152": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "153": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Kings XI Punjab",
+    "team2": "Rajasthan Royals"
+  },
+  "154": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Daredevils"
+  },
+  "155": {
+    "winner": "Deccan Chargers",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Deccan Chargers"
+  },
+  "156": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Mumbai Indians",
+    "team2": "Kings XI Punjab"
+  },
+  "157": {
+    "winner": "Deccan Chargers",
+    "city": "Nagpur",
+    "team1": "Chennai Super Kings",
+    "team2": "Deccan Chargers"
+  },
+  "158": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "159": {
+    "winner": "Kings XI Punjab",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kings XI Punjab"
+  },
+  "160": {
+    "winner": "Mumbai Indians",
+    "city": "Jaipur",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  "161": {
+    "winner": "Deccan Chargers",
+    "city": "Nagpur",
+    "team1": "Deccan Chargers",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "162": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "163": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Chennai Super Kings"
+  },
+  "164": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "165": {
+    "winner": "Delhi Daredevils",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "166": {
+    "winner": "Deccan Chargers",
+    "city": "Dharamsala",
+    "team1": "Kings XI Punjab",
+    "team2": "Deccan Chargers"
+  },
+  "167": {
+    "winner": "Mumbai Indians",
+    "city": "Bangalore",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "168": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "169": {
+    "winner": "Chennai Super Kings",
+    "city": "Dharamsala",
+    "team1": "Kings XI Punjab",
+    "team2": "Chennai Super Kings"
+  },
+  "170": {
+    "winner": "Deccan Chargers",
+    "city": "Delhi",
+    "team1": "Deccan Chargers",
+    "team2": "Delhi Daredevils"
+  },
+  "171": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders"
+  },
+  "172": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "173": {
+    "winner": "Chennai Super Kings",
+    "city": "Mumbai",
+    "team1": "Chennai Super Kings",
+    "team2": "Deccan Chargers"
+  },
+  "174": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Mumbai",
+    "team1": "Deccan Chargers",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "175": {
+    "winner": "Chennai Super Kings",
+    "city": "Mumbai",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "176": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "177": {
+    "winner": "Rajasthan Royals",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Rajasthan Royals"
+  },
+  "178": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Kochi",
+    "team1": "Kochi Tuskers Kerala",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "179": {
+    "winner": "Mumbai Indians",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Mumbai Indians"
+  },
+  "180": {
+    "winner": "Pune Warriors",
+    "city": "Mumbai",
+    "team1": "Kings XI Punjab",
+    "team2": "Pune Warriors"
+  },
+  "181": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Deccan Chargers"
+  },
+  "182": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Delhi Daredevils",
+    "team2": "Rajasthan Royals"
+  },
+  "183": {
+    "winner": "Mumbai Indians",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Mumbai Indians"
+  },
+  "184": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Chennai Super Kings",
+    "team2": "Kings XI Punjab"
+  },
+  "185": {
+    "winner": "Pune Warriors",
+    "city": "Mumbai",
+    "team1": "Kochi Tuskers Kerala",
+    "team2": "Pune Warriors"
+  },
+  "186": {
+    "winner": "Deccan Chargers",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "187": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "188": {
+    "winner": "Kochi Tuskers Kerala",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Kochi Tuskers Kerala"
+  },
+  "189": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "190": {
+    "winner": "Kings XI Punjab",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Kings XI Punjab"
+  },
+  "191": {
+    "winner": "Delhi Daredevils",
+    "city": "Mumbai",
+    "team1": "Pune Warriors",
+    "team2": "Delhi Daredevils"
+  },
+  "192": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "193": {
+    "winner": "Kochi Tuskers Kerala",
+    "city": "Kochi",
+    "team1": "Chennai Super Kings",
+    "team2": "Kochi Tuskers Kerala"
+  },
+  "194": {
+    "winner": "Deccan Chargers",
+    "city": "Delhi",
+    "team1": "Deccan Chargers",
+    "team2": "Delhi Daredevils"
+  },
+  "195": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Pune Warriors",
+    "team2": "Mumbai Indians"
+  },
+  "196": {
+    "winner": "Kochi Tuskers Kerala",
+    "city": "Kolkata",
+    "team1": "Kochi Tuskers Kerala",
+    "team2": "Kolkata Knight Riders"
+  },
+  "197": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Rajasthan Royals"
+  },
+  "198": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "199": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "200": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kings XI Punjab"
+  },
+  "201": {
+    "winner": "Mumbai Indians",
+    "city": "Hyderabad",
+    "team1": "Mumbai Indians",
+    "team2": "Deccan Chargers"
+  },
+  "202": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Kochi Tuskers Kerala",
+    "team2": "Rajasthan Royals"
+  },
+  "203": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Pune Warriors"
+  },
+  "204": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "205": {
+    "winner": "Chennai Super Kings",
+    "city": "Mumbai",
+    "team1": "Pune Warriors",
+    "team2": "Chennai Super Kings"
+  },
+  "206": {
+    "winner": "Deccan Chargers",
+    "city": "Kochi",
+    "team1": "Deccan Chargers",
+    "team2": "Kochi Tuskers Kerala"
+  },
+  "207": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Delhi",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Daredevils"
+  },
+  "208": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  "209": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Pune Warriors"
+  },
+  "210": {
+    "winner": "Delhi Daredevils",
+    "city": "Kochi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kochi Tuskers Kerala"
+  },
+  "211": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "212": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Pune Warriors",
+    "team2": "Rajasthan Royals"
+  },
+  "213": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Deccan Chargers"
+  },
+  "214": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Kings XI Punjab"
+  },
+  "215": {
+    "winner": "Kochi Tuskers Kerala",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kochi Tuskers Kerala"
+  },
+  "216": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Hyderabad",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Deccan Chargers"
+  },
+  "217": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings"
+  },
+  "218": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Pune Warriors"
+  },
+  "219": {
+    "winner": "Kochi Tuskers Kerala",
+    "city": "Kochi",
+    "team1": "Kochi Tuskers Kerala",
+    "team2": "Kolkata Knight Riders"
+  },
+  "220": {
+    "winner": "Delhi Daredevils",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Delhi Daredevils"
+  },
+  "221": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "222": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "223": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "224": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Kochi Tuskers Kerala",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "225": {
+    "winner": "Pune Warriors",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Pune Warriors"
+  },
+  "226": {
+    "winner": "Chennai Super Kings",
+    "city": "Jaipur",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals"
+  },
+  "227": {
+    "winner": "Pune Warriors",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Pune Warriors"
+  },
+  "228": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "229": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "230": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "231": {
+    "winner": "Kings XI Punjab",
+    "city": "Indore",
+    "team1": "Kochi Tuskers Kerala",
+    "team2": "Kings XI Punjab"
+  },
+  "232": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "233": {
+    "winner": "Deccan Chargers",
+    "city": "Mumbai",
+    "team1": "Deccan Chargers",
+    "team2": "Mumbai Indians"
+  },
+  "234": {
+    "winner": "Kings XI Punjab",
+    "city": "Dharamsala",
+    "team1": "Kings XI Punjab",
+    "team2": "Delhi Daredevils"
+  },
+  "235": {
+    "winner": "Kochi Tuskers Kerala",
+    "city": "Indore",
+    "team1": "Rajasthan Royals",
+    "team2": "Kochi Tuskers Kerala"
+  },
+  "236": {
+    "winner": "Deccan Chargers",
+    "city": "Mumbai",
+    "team1": "Pune Warriors",
+    "team2": "Deccan Chargers"
+  },
+  "237": {
+    "winner": "Kings XI Punjab",
+    "city": "Dharamsala",
+    "team1": "Kings XI Punjab",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "238": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Kochi Tuskers Kerala"
+  },
+  "239": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Mumbai",
+    "team1": "Pune Warriors",
+    "team2": "Kolkata Knight Riders"
+  },
+  "240": {
+    "winner": "Rajasthan Royals",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  "241": {
+    "winner": "Deccan Chargers",
+    "city": "Dharamsala",
+    "team1": "Deccan Chargers",
+    "team2": "Kings XI Punjab"
+  },
+  "242": {
+    "winner": "",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Pune Warriors"
+  },
+  "243": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "244": {
+    "winner": "Mumbai Indians",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "245": {
+    "winner": "Chennai Super Kings",
+    "city": "Mumbai",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Chennai Super Kings"
+  },
+  "246": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "247": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Chennai",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Mumbai Indians"
+  },
+  "248": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "249": {
+    "winner": "Mumbai Indians",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "250": {
+    "winner": "Delhi Daredevils",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Daredevils"
+  },
+  "251": {
+    "winner": "Pune Warriors",
+    "city": "Mumbai",
+    "team1": "Pune Warriors",
+    "team2": "Mumbai Indians"
+  },
+  "252": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Kings XI Punjab"
+  },
+  "253": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Delhi Daredevils"
+  },
+  "254": {
+    "winner": "Chennai Super Kings",
+    "city": "Visakhapatnam",
+    "team1": "Chennai Super Kings",
+    "team2": "Deccan Chargers"
+  },
+  "255": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "256": {
+    "winner": "Pune Warriors",
+    "city": "Pune",
+    "team1": "Pune Warriors",
+    "team2": "Kings XI Punjab"
+  },
+  "257": {
+    "winner": "Mumbai Indians",
+    "city": "Visakhapatnam",
+    "team1": "Deccan Chargers",
+    "team2": "Mumbai Indians"
+  },
+  "258": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Bangalore",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "259": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "260": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  "261": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Chennai Super Kings"
+  },
+  "262": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Pune Warriors",
+    "team2": "Kings XI Punjab"
+  },
+  "263": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "264": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Deccan Chargers",
+    "team2": "Delhi Daredevils"
+  },
+  "265": {
+    "winner": "Pune Warriors",
+    "city": "Pune",
+    "team1": "Chennai Super Kings",
+    "team2": "Pune Warriors"
+  },
+  "266": {
+    "winner": "Kings XI Punjab",
+    "city": "Kolkata",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "267": {
+    "winner": "Rajasthan Royals",
+    "city": "Bangalore",
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "268": {
+    "winner": "Delhi Daredevils",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "269": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Deccan Chargers",
+    "team2": "Rajasthan Royals"
+  },
+  "270": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Pune Warriors",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "271": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "272": {
+    "winner": "Delhi Daredevils",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Delhi Daredevils"
+  },
+  "273": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Pune Warriors"
+  },
+  "274": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "275": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings"
+  },
+  "276": {
+    "winner": "Pune Warriors",
+    "city": "Delhi",
+    "team1": "Pune Warriors",
+    "team2": "Delhi Daredevils"
+  },
+  "277": {
+    "winner": "Kings XI Punjab",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Kings XI Punjab"
+  },
+  "278": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Cuttack",
+    "team1": "Deccan Chargers",
+    "team2": "Kolkata Knight Riders"
+  },
+  "279": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Jaipur",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rajasthan Royals"
+  },
+  "280": {
+    "winner": "Delhi Daredevils",
+    "city": "Pune",
+    "team1": "Pune Warriors",
+    "team2": "Delhi Daredevils"
+  },
+  "281": {
+    "winner": "Mumbai Indians",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "282": {
+    "winner": "Deccan Chargers",
+    "city": "Pune",
+    "team1": "Deccan Chargers",
+    "team2": "Pune Warriors"
+  },
+  "283": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Mumbai Indians"
+  },
+  "284": {
+    "winner": "Kings XI Punjab",
+    "city": "Chennai",
+    "team1": "Kings XI Punjab",
+    "team2": "Chennai Super Kings"
+  },
+  "285": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "286": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Rajasthan Royals"
+  },
+  "287": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Deccan Chargers",
+    "team2": "Mumbai Indians"
+  },
+  "288": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "289": {
+    "winner": "Deccan Chargers",
+    "city": "Cuttack",
+    "team1": "Deccan Chargers",
+    "team2": "Pune Warriors"
+  },
+  "290": {
+    "winner": "Delhi Daredevils",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Delhi Daredevils"
+  },
+  "291": {
+    "winner": "Kings XI Punjab",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "292": {
+    "winner": "Mumbai Indians",
+    "city": "Pune",
+    "team1": "Mumbai Indians",
+    "team2": "Pune Warriors"
+  },
+  "293": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Deccan Chargers"
+  },
+  "294": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Pune Warriors"
+  },
+  "295": {
+    "winner": "Rajasthan Royals",
+    "city": "Chandigarh",
+    "team1": "Rajasthan Royals",
+    "team2": "Kings XI Punjab"
+  },
+  "296": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "297": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Deccan Chargers",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "298": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kolkata Knight Riders"
+  },
+  "299": {
+    "winner": "Rajasthan Royals",
+    "city": "Pune",
+    "team1": "Pune Warriors",
+    "team2": "Rajasthan Royals"
+  },
+  "300": {
+    "winner": "Kings XI Punjab",
+    "city": "Hyderabad",
+    "team1": "Kings XI Punjab",
+    "team2": "Deccan Chargers"
+  },
+  "301": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "302": {
+    "winner": "Chennai Super Kings",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings"
+  },
+  "303": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Pune",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Pune Warriors"
+  },
+  "304": {
+    "winner": "Mumbai Indians",
+    "city": "Kolkata",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders"
+  },
+  "305": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Delhi Daredevils",
+    "team2": "Chennai Super Kings"
+  },
+  "306": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Pune Warriors"
+  },
+  "307": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Deccan Chargers",
+    "team2": "Kings XI Punjab"
+  },
+  "308": {
+    "winner": "Mumbai Indians",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Mumbai Indians"
+  },
+  "309": {
+    "winner": "Chennai Super Kings",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Chennai Super Kings"
+  },
+  "310": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Kings XI Punjab",
+    "team2": "Delhi Daredevils"
+  },
+  "311": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Mumbai",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "312": {
+    "winner": "Kings XI Punjab",
+    "city": "Dharamsala",
+    "team1": "Chennai Super Kings",
+    "team2": "Kings XI Punjab"
+  },
+  "313": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Delhi",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Delhi Daredevils"
+  },
+  "314": {
+    "winner": "Deccan Chargers",
+    "city": "Hyderabad",
+    "team1": "Rajasthan Royals",
+    "team2": "Deccan Chargers"
+  },
+  "315": {
+    "winner": "Delhi Daredevils",
+    "city": "Dharamsala",
+    "team1": "Kings XI Punjab",
+    "team2": "Delhi Daredevils"
+  },
+  "316": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Pune",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Pune Warriors"
+  },
+  "317": {
+    "winner": "Deccan Chargers",
+    "city": "Hyderabad",
+    "team1": "Deccan Chargers",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "318": {
+    "winner": "Mumbai Indians",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Mumbai Indians"
+  },
+  "319": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Pune",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Daredevils"
+  },
+  "320": {
+    "winner": "Chennai Super Kings",
+    "city": "Bangalore",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "321": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "322": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "323": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Delhi Daredevils",
+    "team2": "Kolkata Knight Riders"
+  },
+  "324": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Mumbai Indians"
+  },
+  "325": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Pune Warriors"
+  },
+  "326": {
+    "winner": "Rajasthan Royals",
+    "city": "Delhi",
+    "team1": "Rajasthan Royals",
+    "team2": "Delhi Daredevils"
+  },
+  "327": {
+    "winner": "Mumbai Indians",
+    "city": "Chennai",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "328": {
+    "winner": "Kings XI Punjab",
+    "city": "Pune",
+    "team1": "Pune Warriors",
+    "team2": "Kings XI Punjab"
+  },
+  "329": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "330": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "331": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "332": {
+    "winner": "Chennai Super Kings",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Chennai Super Kings"
+  },
+  "333": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "334": {
+    "winner": "Pune Warriors",
+    "city": "Pune",
+    "team1": "Rajasthan Royals",
+    "team2": "Pune Warriors"
+  },
+  "335": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "336": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Pune Warriors"
+  },
+  "337": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Chennai Super Kings"
+  },
+  "338": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "339": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Kings XI Punjab",
+    "team2": "Rajasthan Royals"
+  },
+  "340": {
+    "winner": "Pune Warriors",
+    "city": "Chennai",
+    "team1": "Pune Warriors",
+    "team2": "Chennai Super Kings"
+  },
+  "341": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "342": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "343": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Pune",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Pune Warriors"
+  },
+  "344": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Rajasthan Royals",
+    "team2": "Mumbai Indians"
+  },
+  "345": {
+    "winner": "Chennai Super Kings",
+    "city": "Delhi",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "346": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Kings XI Punjab",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "347": {
+    "winner": "Chennai Super Kings",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Chennai Super Kings"
+  },
+  "348": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "349": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "350": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Pune Warriors",
+    "team2": "Kings XI Punjab"
+  },
+  "351": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings"
+  },
+  "352": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Pune Warriors"
+  },
+  "353": {
+    "winner": "Kings XI Punjab",
+    "city": "Dharamsala",
+    "team1": "Kings XI Punjab",
+    "team2": "Delhi Daredevils"
+  },
+  "354": {
+    "winner": "Mumbai Indians",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "355": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Chennai Super Kings"
+  },
+  "356": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "357": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals"
+  },
+  "358": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "359": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "360": {
+    "winner": "Delhi Daredevils",
+    "city": "Raipur",
+    "team1": "Delhi Daredevils",
+    "team2": "Pune Warriors"
+  },
+  "361": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rajasthan Royals"
+  },
+  "362": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Kings XI Punjab"
+  },
+  "363": {
+    "winner": "Chennai Super Kings",
+    "city": "Pune",
+    "team1": "Chennai Super Kings",
+    "team2": "Pune Warriors"
+  },
+  "364": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Mumbai Indians",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "365": {
+    "winner": "Delhi Daredevils",
+    "city": "Raipur",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Daredevils"
+  },
+  "366": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Kings XI Punjab"
+  },
+  "367": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Pune",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Pune Warriors"
+  },
+  "368": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "369": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Delhi Daredevils",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "370": {
+    "winner": "Kings XI Punjab",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "371": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "372": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Pune Warriors",
+    "team2": "Rajasthan Royals"
+  },
+  "373": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "374": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Delhi Daredevils",
+    "team2": "Rajasthan Royals"
+  },
+  "375": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders"
+  },
+  "376": {
+    "winner": "Chennai Super Kings",
+    "city": "Hyderabad",
+    "team1": "Chennai Super Kings",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "377": {
+    "winner": "Rajasthan Royals",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Rajasthan Royals"
+  },
+  "378": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Pune",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Pune Warriors"
+  },
+  "379": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Delhi",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Delhi Daredevils"
+  },
+  "380": {
+    "winner": "Mumbai Indians",
+    "city": "Pune",
+    "team1": "Pune Warriors",
+    "team2": "Mumbai Indians"
+  },
+  "381": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Chandigarh",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kings XI Punjab"
+  },
+  "382": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Ranchi",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kolkata Knight Riders"
+  },
+  "383": {
+    "winner": "Rajasthan Royals",
+    "city": "Jaipur",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals"
+  },
+  "384": {
+    "winner": "Kings XI Punjab",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kings XI Punjab"
+  },
+  "385": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Mumbai Indians"
+  },
+  "386": {
+    "winner": "Pune Warriors",
+    "city": "Ranchi",
+    "team1": "Pune Warriors",
+    "team2": "Kolkata Knight Riders"
+  },
+  "387": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "388": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  "389": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "390": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals"
+  },
+  "391": {
+    "winner": "Kings XI Punjab",
+    "city": "Dharamsala",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "392": {
+    "winner": "Pune Warriors",
+    "city": "Pune",
+    "team1": "Pune Warriors",
+    "team2": "Delhi Daredevils"
+  },
+  "393": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Chennai Super Kings"
+  },
+  "394": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "395": {
+    "winner": "Chennai Super Kings",
+    "city": "Delhi",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "396": {
+    "winner": "Rajasthan Royals",
+    "city": "Delhi",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals"
+  },
+  "397": {
+    "winner": "Mumbai Indians",
+    "city": "Kolkata",
+    "team1": "Rajasthan Royals",
+    "team2": "Mumbai Indians"
+  },
+  "398": {
+    "winner": "Mumbai Indians",
+    "city": "Kolkata",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "399": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Abu Dhabi",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "400": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Sharjah",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "401": {
+    "winner": "Kings XI Punjab",
+    "city": "Abu Dhabi",
+    "team1": "Chennai Super Kings",
+    "team2": "Kings XI Punjab"
+  },
+  "402": {
+    "winner": "Rajasthan Royals",
+    "city": "Abu Dhabi",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals"
+  },
+  "403": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "404": {
+    "winner": "Delhi Daredevils",
+    "city": "",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Daredevils"
+  },
+  "405": {
+    "winner": "Kings XI Punjab",
+    "city": "Sharjah",
+    "team1": "Rajasthan Royals",
+    "team2": "Kings XI Punjab"
+  },
+  "406": {
+    "winner": "Chennai Super Kings",
+    "city": "Abu Dhabi",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "407": {
+    "winner": "Kings XI Punjab",
+    "city": "Sharjah",
+    "team1": "Kings XI Punjab",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "408": {
+    "winner": "Chennai Super Kings",
+    "city": "",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals"
+  },
+  "409": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Sharjah",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "410": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Delhi Daredevils"
+  },
+  "411": {
+    "winner": "Chennai Super Kings",
+    "city": "",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "412": {
+    "winner": "Rajasthan Royals",
+    "city": "Abu Dhabi",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rajasthan Royals"
+  },
+  "413": {
+    "winner": "Kings XI Punjab",
+    "city": "Abu Dhabi",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "414": {
+    "winner": "Delhi Daredevils",
+    "city": "Sharjah",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "415": {
+    "winner": "Chennai Super Kings",
+    "city": "Sharjah",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Chennai Super Kings"
+  },
+  "416": {
+    "winner": "Kings XI Punjab",
+    "city": "",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "417": {
+    "winner": "Rajasthan Royals",
+    "city": "Abu Dhabi",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "418": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Mumbai Indians"
+  },
+  "419": {
+    "winner": "Chennai Super Kings",
+    "city": "Ranchi",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "420": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "421": {
+    "winner": "Rajasthan Royals",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Rajasthan Royals"
+  },
+  "422": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "423": {
+    "winner": "Rajasthan Royals",
+    "city": "Ahmedabad",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "424": {
+    "winner": "Chennai Super Kings",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Chennai Super Kings"
+  },
+  "425": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "426": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kolkata Knight Riders"
+  },
+  "427": {
+    "winner": "Kings XI Punjab",
+    "city": "Cuttack",
+    "team1": "Kings XI Punjab",
+    "team2": "Chennai Super Kings"
+  },
+  "428": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Ahmedabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals"
+  },
+  "429": {
+    "winner": "Kings XI Punjab",
+    "city": "Bangalore",
+    "team1": "Kings XI Punjab",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "430": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "431": {
+    "winner": "Chennai Super Kings",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "432": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Cuttack",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "433": {
+    "winner": "Rajasthan Royals",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rajasthan Royals"
+  },
+  "434": {
+    "winner": "Mumbai Indians",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Mumbai Indians"
+  },
+  "435": {
+    "winner": "Chennai Super Kings",
+    "city": "Ranchi",
+    "team1": "Rajasthan Royals",
+    "team2": "Chennai Super Kings"
+  },
+  "436": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Delhi Daredevils"
+  },
+  "437": {
+    "winner": "Kings XI Punjab",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kings XI Punjab"
+  },
+  "438": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Cuttack",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders"
+  },
+  "439": {
+    "winner": "Rajasthan Royals",
+    "city": "Ahmedabad",
+    "team1": "Rajasthan Royals",
+    "team2": "Delhi Daredevils"
+  },
+  "440": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Ranchi",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "441": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kolkata Knight Riders"
+  },
+  "442": {
+    "winner": "Mumbai Indians",
+    "city": "Ahmedabad",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  "443": {
+    "winner": "Kings XI Punjab",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kings XI Punjab"
+  },
+  "444": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "445": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "446": {
+    "winner": "Mumbai Indians",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "447": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "448": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Ranchi",
+    "team1": "Chennai Super Kings",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "449": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "450": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Rajasthan Royals"
+  },
+  "451": {
+    "winner": "Chennai Super Kings",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Chennai Super Kings"
+  },
+  "452": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kolkata Knight Riders"
+  },
+  "453": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Delhi Daredevils",
+    "team2": "Kings XI Punjab"
+  },
+  "454": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Rajasthan Royals",
+    "team2": "Mumbai Indians"
+  },
+  "455": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Kings XI Punjab"
+  },
+  "456": {
+    "winner": "Chennai Super Kings",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "457": {
+    "winner": "Kings XI Punjab",
+    "city": "Mumbai",
+    "team1": "Kings XI Punjab",
+    "team2": "Chennai Super Kings"
+  },
+  "458": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Bangalore",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "459": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders"
+  },
+  "460": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "461": {
+    "winner": "Rajasthan Royals",
+    "city": "Pune",
+    "team1": "Rajasthan Royals",
+    "team2": "Kings XI Punjab"
+  },
+  "462": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "463": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "464": {
+    "winner": "Rajasthan Royals",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Rajasthan Royals"
+  },
+  "465": {
+    "winner": "Kings XI Punjab",
+    "city": "Mumbai",
+    "team1": "Kings XI Punjab",
+    "team2": "Mumbai Indians"
+  },
+  "466": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "467": {
+    "winner": "Rajasthan Royals",
+    "city": "Ahmedabad",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  "468": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "469": {
+    "winner": "Delhi Daredevils",
+    "city": "Pune",
+    "team1": "Kings XI Punjab",
+    "team2": "Delhi Daredevils"
+  },
+  "470": {
+    "winner": "Rajasthan Royals",
+    "city": "Visakhapatnam",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals"
+  },
+  "471": {
+    "winner": "Chennai Super Kings",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "472": {
+    "winner": "Delhi Daredevils",
+    "city": "Visakhapatnam",
+    "team1": "Delhi Daredevils",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "473": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Pune",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "474": {
+    "winner": "Rajasthan Royals",
+    "city": "Ahmedabad",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals"
+  },
+  "475": {
+    "winner": "Mumbai Indians",
+    "city": "Bangalore",
+    "team1": "Mumbai Indians",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "476": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kolkata Knight Riders"
+  },
+  "477": {
+    "winner": "Kings XI Punjab",
+    "city": "Ahmedabad",
+    "team1": "Rajasthan Royals",
+    "team2": "Kings XI Punjab"
+  },
+  "478": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Visakhapatnam",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kolkata Knight Riders"
+  },
+  "479": {
+    "winner": "Chennai Super Kings",
+    "city": "Bangalore",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "480": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Mumbai Indians"
+  },
+  "481": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Ahmedabad",
+    "team1": "Rajasthan Royals",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "482": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "483": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Kings XI Punjab"
+  },
+  "484": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "485": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Chandigarh",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kings XI Punjab"
+  },
+  "486": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Delhi Daredevils"
+  },
+  "487": {
+    "winner": "",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rajasthan Royals"
+  },
+  "488": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Kolkata Knight Riders"
+  },
+  "489": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Kings XI Punjab",
+    "team2": "Delhi Daredevils"
+  },
+  "490": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Rajasthan Royals"
+  },
+  "491": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "492": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Chennai Super Kings"
+  },
+  "493": {
+    "winner": "Mumbai Indians",
+    "city": "Chandigarh",
+    "team1": "Mumbai Indians",
+    "team2": "Kings XI Punjab"
+  },
+  "494": {
+    "winner": "Rajasthan Royals",
+    "city": "Mumbai",
+    "team1": "Rajasthan Royals",
+    "team2": "Delhi Daredevils"
+  },
+  "495": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "496": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "497": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Delhi Daredevils",
+    "team2": "Mumbai Indians"
+  },
+  "498": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "499": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Mumbai",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rajasthan Royals"
+  },
+  "500": {
+    "winner": "Mumbai Indians",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Mumbai Indians"
+  },
+  "501": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "502": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Raipur",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Delhi Daredevils"
+  },
+  "503": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Mumbai",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Mumbai Indians"
+  },
+  "504": {
+    "winner": "Chennai Super Kings",
+    "city": "Chennai",
+    "team1": "Chennai Super Kings",
+    "team2": "Rajasthan Royals"
+  },
+  "505": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kings XI Punjab"
+  },
+  "506": {
+    "winner": "Delhi Daredevils",
+    "city": "Raipur",
+    "team1": "Chennai Super Kings",
+    "team2": "Delhi Daredevils"
+  },
+  "507": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "508": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Kolkata Knight Riders"
+  },
+  "509": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "510": {
+    "winner": "Chennai Super Kings",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Chennai Super Kings"
+  },
+  "511": {
+    "winner": "Rajasthan Royals",
+    "city": "Mumbai",
+    "team1": "Rajasthan Royals",
+    "team2": "Kolkata Knight Riders"
+  },
+  "512": {
+    "winner": "",
+    "city": "Bangalore",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "513": {
+    "winner": "Mumbai Indians",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Mumbai Indians"
+  },
+  "514": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "515": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Pune",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rajasthan Royals"
+  },
+  "516": {
+    "winner": "Chennai Super Kings",
+    "city": "Ranchi",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Chennai Super Kings"
+  },
+  "517": {
+    "winner": "Mumbai Indians",
+    "city": "Kolkata",
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings"
+  },
+  "518": {
+    "winner": "Rising Pune Supergiants",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Rising Pune Supergiants"
+  },
+  "519": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Delhi Daredevils",
+    "team2": "Kolkata Knight Riders"
+  },
+  "520": {
+    "winner": "Gujarat Lions",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Gujarat Lions"
+  },
+  "521": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "522": {
+    "winner": "Mumbai Indians",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "523": {
+    "winner": "Gujarat Lions",
+    "city": "Rajkot",
+    "team1": "Rising Pune Supergiants",
+    "team2": "Gujarat Lions"
+  },
+  "524": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Kings XI Punjab",
+    "team2": "Delhi Daredevils"
+  },
+  "525": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kolkata Knight Riders"
+  },
+  "526": {
+    "winner": "Gujarat Lions",
+    "city": "Mumbai",
+    "team1": "Mumbai Indians",
+    "team2": "Gujarat Lions"
+  },
+  "527": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Rising Pune Supergiants",
+    "team2": "Kings XI Punjab"
+  },
+  "528": {
+    "winner": "Delhi Daredevils",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Delhi Daredevils"
+  },
+  "529": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Mumbai Indians",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "530": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Kolkata Knight Riders"
+  },
+  "531": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Mumbai Indians"
+  },
+  "532": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Rajkot",
+    "team1": "Gujarat Lions",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "533": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Pune",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Rising Pune Supergiants"
+  },
+  "534": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Mumbai Indians"
+  },
+  "535": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Kings XI Punjab",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "536": {
+    "winner": "Gujarat Lions",
+    "city": "Rajkot",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Gujarat Lions"
+  },
+  "537": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Pune",
+    "team1": "Rising Pune Supergiants",
+    "team2": "Kolkata Knight Riders"
+  },
+  "538": {
+    "winner": "Mumbai Indians",
+    "city": "Chandigarh",
+    "team1": "Mumbai Indians",
+    "team2": "Kings XI Punjab"
+  },
+  "539": {
+    "winner": "Rising Pune Supergiants",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rising Pune Supergiants"
+  },
+  "540": {
+    "winner": "Gujarat Lions",
+    "city": "Delhi",
+    "team1": "Gujarat Lions",
+    "team2": "Delhi Daredevils"
+  },
+  "541": {
+    "winner": "Mumbai Indians",
+    "city": "Mumbai",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Mumbai Indians"
+  },
+  "542": {
+    "winner": "Gujarat Lions",
+    "city": "Pune",
+    "team1": "Rising Pune Supergiants",
+    "team2": "Gujarat Lions"
+  },
+  "543": {
+    "winner": "Delhi Daredevils",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Kolkata Knight Riders"
+  },
+  "544": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "545": {
+    "winner": "Kings XI Punjab",
+    "city": "Rajkot",
+    "team1": "Kings XI Punjab",
+    "team2": "Gujarat Lions"
+  },
+  "546": {
+    "winner": "Mumbai Indians",
+    "city": "Pune",
+    "team1": "Rising Pune Supergiants",
+    "team2": "Mumbai Indians"
+  },
+  "547": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kolkata Knight Riders"
+  },
+  "548": {
+    "winner": "Delhi Daredevils",
+    "city": "Rajkot",
+    "team1": "Gujarat Lions",
+    "team2": "Delhi Daredevils"
+  },
+  "549": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Kings XI Punjab"
+  },
+  "550": {
+    "winner": "Rising Pune Supergiants",
+    "city": "Delhi",
+    "team1": "Delhi Daredevils",
+    "team2": "Rising Pune Supergiants"
+  },
+  "551": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Hyderabad",
+    "team1": "Gujarat Lions",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "552": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Rising Pune Supergiants",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "553": {
+    "winner": "Kings XI Punjab",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Delhi Daredevils"
+  },
+  "554": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Visakhapatnam",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Mumbai Indians"
+  },
+  "555": {
+    "winner": "Gujarat Lions",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Gujarat Lions"
+  },
+  "556": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Chandigarh",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "557": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Visakhapatnam",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Rising Pune Supergiants"
+  },
+  "558": {
+    "winner": "Mumbai Indians",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Mumbai Indians"
+  },
+  "559": {
+    "winner": "Delhi Daredevils",
+    "city": "Hyderabad",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Delhi Daredevils"
+  },
+  "560": {
+    "winner": "Kings XI Punjab",
+    "city": "Visakhapatnam",
+    "team1": "Mumbai Indians",
+    "team2": "Kings XI Punjab"
+  },
+  "561": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Gujarat Lions"
+  },
+  "562": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Rising Pune Supergiants",
+    "team2": "Kolkata Knight Riders"
+  },
+  "563": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Chandigarh",
+    "team1": "Kings XI Punjab",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "564": {
+    "winner": "Mumbai Indians",
+    "city": "Visakhapatnam",
+    "team1": "Mumbai Indians",
+    "team2": "Delhi Daredevils"
+  },
+  "565": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "566": {
+    "winner": "Rising Pune Supergiants",
+    "city": "Visakhapatnam",
+    "team1": "Delhi Daredevils",
+    "team2": "Rising Pune Supergiants"
+  },
+  "567": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Kings XI Punjab"
+  },
+  "568": {
+    "winner": "Gujarat Lions",
+    "city": "Kanpur",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Gujarat Lions"
+  },
+  "569": {
+    "winner": "Delhi Daredevils",
+    "city": "Raipur",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Delhi Daredevils"
+  },
+  "570": {
+    "winner": "Rising Pune Supergiants",
+    "city": "Visakhapatnam",
+    "team1": "Kings XI Punjab",
+    "team2": "Rising Pune Supergiants"
+  },
+  "571": {
+    "winner": "Gujarat Lions",
+    "city": "Kanpur",
+    "team1": "Mumbai Indians",
+    "team2": "Gujarat Lions"
+  },
+  "572": {
+    "winner": "Kolkata Knight Riders",
+    "city": "Kolkata",
+    "team1": "Kolkata Knight Riders",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "573": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Raipur",
+    "team1": "Delhi Daredevils",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "574": {
+    "winner": "Royal Challengers Bangalore",
+    "city": "Bangalore",
+    "team1": "Gujarat Lions",
+    "team2": "Royal Challengers Bangalore"
+  },
+  "575": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Delhi",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Kolkata Knight Riders"
+  },
+  "576": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Delhi",
+    "team1": "Gujarat Lions",
+    "team2": "Sunrisers Hyderabad"
+  },
+  "577": {
+    "winner": "Sunrisers Hyderabad",
+    "city": "Bangalore",
+    "team1": "Sunrisers Hyderabad",
+    "team2": "Royal Challengers Bangalore"
+  }
+}

@@ -6,8 +6,6 @@ import com.stackroute.datamunger.query.parser.Restriction;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
 
 public class CsvQueryProcessor implements QueryProcessingEngine {
@@ -61,7 +59,7 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
         br.reset();
 
         while ((words = br.readLine()) != null) {
-            boolean continueOn = false;
+            boolean continueOn;
             List<Restriction> theRestrictions = queryParameter.getRestrictions();
             String[] pieces = words.split(",", headers.length);
             ArrayList<Boolean> booleans = new ArrayList<>();

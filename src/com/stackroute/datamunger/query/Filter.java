@@ -54,13 +54,7 @@ public class Filter {
 				return val1.compareTo(val2) == 0;
 		}
 	}
-
-	//Method containing implementation of notEqualTo operator
-	private boolean isNotEqual(String val1, String val2, String dataType) {
-		return !isEqualTo(val1, val2, dataType);
-	}
 	//Method containing implementation of greaterThan operator
-
 	private boolean isGreaterThan(String val1, String val2, String dataType){
 		switch (dataType) {
 			case "java.lang.Integer":
@@ -81,6 +75,10 @@ public class Filter {
 				return val1.compareTo(val2) == 0;
 		}
 	}
+	//Method containing implementation of notEqualTo operator
+	private boolean isNotEqual(String val1, String val2, String dataType) {
+		return !isEqualTo(val1, val2, dataType);
+	}
 	//Method containing implementation of greaterThanOrEqualTo operator
 	private boolean isGreaterThanOrEqualTo(String val1, String val2, String dataType) {
 		return isEqualTo(val1, val2, dataType)|isGreaterThan(val1,val2,dataType);
@@ -94,8 +92,9 @@ public class Filter {
 		return (isLessThan(val1, val2, dataType)|isEqualTo(val1,val2,dataType));
 	}
 
+	//from DataTypeDefinitions
 	private String dateFormat(String date) {
-		String format = "";
+		String format;
 		if(date.matches("[0-9]{2}/[0-9]{2}/[0-9]{4}"))
 			format = "dd/mm/yyyy";
 		else if(date.matches("[0-9]{4}-[0-9]{2}-[0-9]{2}"))
