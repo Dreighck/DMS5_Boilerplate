@@ -20,9 +20,7 @@ public class DataTypeDefinitions {
 
 	public DataTypeDefinitions(){}
 
-	//method stub
 	public static String getDataTypes(String dataTypes){
-
 			if (dataTypes.matches("[0-9]+")) {
 				dataTypes = "java.lang.Integer";
 			} else if (dataTypes.matches("[\\d*.?]+")) {

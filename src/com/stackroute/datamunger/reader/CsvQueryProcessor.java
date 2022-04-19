@@ -13,8 +13,7 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
 
     private QueryParameter queryParameter = new QueryParameter();
 
-    public CsvQueryProcessor() {
-    }
+    public CsvQueryProcessor() {}
 
     public CsvQueryProcessor(QueryParameter queryParameter) {
         this.queryParameter = queryParameter;
@@ -39,8 +38,7 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
         FileReader file= new FileReader(fileName);
         BufferedReader br = new BufferedReader(file);
 
-        String headerLine = br.readLine();
-        br.mark(1);
+        String headerLine = br.readLine();  br.mark(1);
         String[] headers = headerLine.split(",");
 
         for (int i = 0; i < headers.length; i++) {
