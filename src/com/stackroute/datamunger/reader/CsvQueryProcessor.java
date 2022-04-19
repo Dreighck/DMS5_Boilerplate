@@ -31,7 +31,7 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
 
         DataSet dataSet = new DataSet();
         Header headerMap = new Header();
-        RowDataTypeDefinitions r2d2 = new RowDataTypeDefinitions();
+        RowDataTypeDefinitions definitions = new RowDataTypeDefinitions();
         Filter filter = new Filter();
 
         String fileName = queryParameter.getFileName();
@@ -49,8 +49,8 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
         String[] fields = fieldLine.split(",", headers.length);
         int indexR2D2=0;
         for (String field : fields) {
-            //r2d2 is HashMap<int,string>
-            r2d2.put(indexR2D2++, DataTypeDefinitions.getDataTypes(field));
+            //definitions is HashMap<int,string>
+            definitions.put(indexR2D2++, DataTypeDefinitions.getDataTypes(field));
         }
 
 
@@ -68,7 +68,7 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
                 for (Restriction theRestriction : theRestrictions) {
                     //Header stores in HashMap<String, Integer> so get returns the index
                     int index = headerMap.get(theRestriction.getPropertyName());
-                    booleans.add(filter.evaluateExpression(pieces[index].trim(), theRestriction,  r2d2.get(index)));
+                    booleans.add(filter.evaluateExpression(pieces[index].trim(), theRestriction,  definitions.get(index)));
                 }
                 continueOn = solveOperators(booleans, queryParameter.getLogicalOperators());
             }
