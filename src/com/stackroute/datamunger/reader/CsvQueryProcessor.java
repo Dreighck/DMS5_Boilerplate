@@ -96,6 +96,7 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
 
     private boolean solveOperators(ArrayList<Boolean> booleans, List<String> operators) {
         switch (booleans.size()) {
+            default: return false;
             case (1): return booleans.get(0);
             case (2):
                 if (operators.get(0).matches("and")) return booleans.get(0) & booleans.get(1);
@@ -103,16 +104,15 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
             case (3):
                 int i = operators.indexOf("and");
                 switch (i) {
+                    default:
+                        return false;
                     case (-1):
                         return booleans.get(0) | booleans.get(1) | booleans.get(2);
                     case (0):
                         return booleans.get(0) & booleans.get(1) | booleans.get(2);
                     case (1):
                         return booleans.get(0) | booleans.get(1) & booleans.get(2);
-                    default:
-                        return false;
                 }
-            default: return false;
         }
     }
 }
