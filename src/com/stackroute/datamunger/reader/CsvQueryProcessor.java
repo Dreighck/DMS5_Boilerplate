@@ -49,10 +49,12 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
 
         String fieldLine = br.readLine();
         String[] fields = fieldLine.split(",", headers.length);
-        for (int i = 0; i < fields.length ; i++) {
-            //r2d2 is HasMap<int,string>
-            r2d2.put(i, DataTypeDefinitions.getDataTypes(fields[i]));
+        int indexR2D2=0;
+        for (String field : fields) {
+            //r2d2 is HashMap<int,string>
+            r2d2.put(indexR2D2++, DataTypeDefinitions.getDataTypes(field));
         }
+
 
         long setRow = 1;
         String words;
@@ -63,13 +65,12 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
             List<Restriction> theRestrictions = queryParameter.getRestrictions();
             String[] pieces = words.split(",", headers.length);
             ArrayList<Boolean> booleans = new ArrayList<>();
-            if (theRestrictions == null){
-                continueOn = true;}
+            if (theRestrictions == null){continueOn = true;}
             else {
                 for (Restriction theRestriction : theRestrictions) {
-                    //Header stores in HashMap<String, Integer>
+                    //Header stores in HashMap<String, Integer> so get returns the index
                     int index = headerMap.get(theRestriction.getPropertyName());
-                    booleans.add(filter.evaluateExpression(theRestriction, pieces[index].trim(), r2d2.get(index)));
+                    booleans.add(filter.evaluateExpression(pieces[index].trim(), theRestriction,  r2d2.get(index)));
                 }
                 continueOn = solveOperators(booleans, queryParameter.getLogicalOperators());
             }
@@ -79,6 +80,7 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
                 for (String theField : theFields) {
                     if (theField.equals("*")) {
                         for (int j = 0; j < headers.length; j++) {
+                            //rowMap stores in Hashmap<S,S>
                             rowMap.put(headers[j].trim(), pieces[j]);
                         }
                     } else {
@@ -89,7 +91,6 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
             }
         }
         br.close();
-        System.out.println(dataSet);
         return dataSet;
     }
 

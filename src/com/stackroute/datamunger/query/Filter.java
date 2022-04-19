@@ -16,7 +16,7 @@ public class Filter {
 	 * Note: while evaluating string expressions, please handle uppercase and lowercase
 	 *
 	 */
-	public boolean evaluateExpression(Restriction restriction, String fieldValue, String dataType) {
+	public boolean evaluateExpression(String fieldValue, Restriction restriction,  String dataType) {
 		switch (restriction.getCondition()) {
 			case "=":
 				return isEqualTo(fieldValue, restriction.getPropertyValue(), dataType);
