@@ -106,7 +106,6 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
 
         } else if(booleans.size()==3) {
             int i = operators.indexOf("and");
-            boolean res;
             if(i<0)
                 return booleans.get(0) | booleans.get(1) | booleans.get(2);
             else if(i==0)
