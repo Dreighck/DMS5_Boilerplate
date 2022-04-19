@@ -95,24 +95,25 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
     }
 
     private boolean solveOperators(ArrayList<Boolean> booleans, List<String> operators) {
-
-        if (booleans.size() == 1) {
-            return booleans.get(0);
-
-        } else if (booleans.size() == 2) {
-            if (operators.get(0).matches("and")) return booleans.get(0) & booleans.get(1);
-            else return booleans.get(0) | booleans.get(1);
-
-        } else if(booleans.size()==3) {
-            int i = operators.indexOf("and");
-            switch(i) {
-                case(-1): return booleans.get(0) | booleans.get(1) | booleans.get(2);
-                case(0): return booleans.get(0) & booleans.get(1) | booleans.get(2);
-                case(1): return booleans.get(0) | booleans.get(1) & booleans.get(2);
-                default: return false;
-            }
+        switch (booleans.size()) {
+            case (1): return booleans.get(0);
+            case (2):
+                if (operators.get(0).matches("and")) return booleans.get(0) & booleans.get(1);
+                else return booleans.get(0) | booleans.get(1);
+            case (3):
+                int i = operators.indexOf("and");
+                switch (i) {
+                    case (-1):
+                        return booleans.get(0) | booleans.get(1) | booleans.get(2);
+                    case (0):
+                        return booleans.get(0) & booleans.get(1) | booleans.get(2);
+                    case (1):
+                        return booleans.get(0) | booleans.get(1) & booleans.get(2);
+                    default:
+                        return false;
+                }
+            default: return false;
         }
-        else return false;
     }
 }
 /*
