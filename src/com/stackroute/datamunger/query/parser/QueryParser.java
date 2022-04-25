@@ -69,11 +69,11 @@ public class QueryParser {
                                         .split(","));
     }
 
-    public List<Restriction> getConditions(String queryString) {
+    public List<Restriction> getConditions(String queryString) {//Originally called Restrictions
         if(!queryString.contains("where"))
             return null;
-        String[] tokens=queryString.trim().split("where");
-        String[] conditions=tokens[1].trim().split(" order by | group by ")[0].trim().split(" and | or ");
+        String[] pieces =queryString.trim().split("where");
+        String[] conditions= pieces[1].trim().split(" order by | group by ")[0].trim().split(" and | or ");
         List<Restriction>restrictionList=new LinkedList<>();
         for (String s : conditions) {
             String condition;

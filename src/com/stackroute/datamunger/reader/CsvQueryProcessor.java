@@ -53,7 +53,6 @@ public class CsvQueryProcessor implements QueryProcessingEngine {
             definitions.put(indexR2D2++, DataTypeDefinitions.getDataTypes(field));
         }
 
-
         long setRow = 1;
         String words;
         br.reset();
